@@ -9,10 +9,10 @@ entries:
     keywords:
     - bookstore
     maintainers:
-    - email: akash.gautam@velotio.com
-      name: akash
+    - email: vishnu.ram@cloudfico.com
+      name: vishnu.ram
     name: book-store
     urls:
-    - book-store-0.1.0.tgz
+    - https://github.com/vishnuram1989/operator-demo.git/book-store-0.1.0.tgz
     version: 0.1.0
 generated: "2020-01-30T09:15:45.816222+05:30"
