@@ -3,16 +3,18 @@ entries:
   book-store:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-30T09:15:45.819427+05:30"
+    created: "2020-01-30T09:30:30.916272+05:30"
     description: Helm chart for book store application.
-    digest: e58cffb67c3fd8efb9810b4c11f8f364a8c146019363b7d27a21f6c0d61b2772
+    digest: be316e433445b1516d77e37a4f8fbbf0715b7dd84c9217eb48e19ae179f35fa1
     keywords:
     - bookstore
     maintainers:
     - email: vishnu.ram@cloudfico.com
       name: vishnu.ram
     name: book-store
+    sources:
+    - https://github.com/vishnuram1989/operator-demo
     urls:
-    - https://github.com/vishnuram1989/operator-demo.git/book-store-0.1.0.tgz
+    - book-store-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-30T09:15:45.816222+05:30"
+generated: "2020-01-30T09:30:30.915723+05:30"
