@@ -3,9 +3,9 @@ entries:
   book-store:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-30T09:30:30.916272+05:30"
+    created: "2020-01-30T09:58:19.598586+05:30"
     description: Helm chart for book store application.
-    digest: be316e433445b1516d77e37a4f8fbbf0715b7dd84c9217eb48e19ae179f35fa1
+    digest: 8ab3b6c75dbc0ef84a0f07c7b9da39f9c558587f4618f8dc9ad31ae5841ca2d5
     keywords:
     - bookstore
     maintainers:
@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/vishnuram1989/operator-demo
     urls:
-    - book-store-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-01-30T09:30:30.915723+05:30"
+    - book-store-0.1.1.tgz
+    version: 0.1.1
+generated: "2020-01-30T09:58:19.59735+05:30"
